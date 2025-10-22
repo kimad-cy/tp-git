@@ -1,2 +1,2 @@
 # Git & GitHub Lab
-LAB Objective: Understand basic Git concepts and Collaborate using GitHub
+LAB Objective: Understand basic Git concepts and Use essential Git commands. .
